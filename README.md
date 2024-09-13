@@ -1,8 +1,8 @@
 # Identificação
 
-* Nome: 
-* Email (@ccc): 
-* Matrícula: 
+* Nome: Rafael Alencar Adelino de Lima
+* Email (@ccc): rafael.alencar.adelino.lima@ccc.ufcg.edu.br
+* Matrícula: 123110785
 
 # Roteiro: Fila de Prioridade
 
